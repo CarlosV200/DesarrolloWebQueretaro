@@ -13057,6 +13057,14 @@ body {
   color:black;
 }
 
+
+.svg-inline--fa {
+	display: var(--fa-display,inline-block);
+	height: 1.3em;
+	overflow: visible;
+	vertical-align: -.25em;
+}
+
 .footer {
   padding: 5rem 0;
 }
